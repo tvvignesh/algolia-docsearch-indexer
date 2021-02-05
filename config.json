@@ -1,10 +1,8 @@
 {
-  "index_name": "test_guild",
+  "index_name": "theguild",
   "start_urls": [
     "https://graphql-mesh.com/docs/",
     "https://graphql-mesh.com/docs/getting-started/introduction",
-    "https://www.graphql-tools.com/docs/",
-    "https://www.graphql-tools.com/docs/introduction",
     "https://www.graphql-tools.com/docs/",
     "https://www.graphql-tools.com/docs/introduction",
     "https://graphql-config.com/",
